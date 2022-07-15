@@ -2,7 +2,7 @@
 
 MUSIC_FOLDER='music/'
 
-VIDEO=v.m4v
+VIDEO=v.mp4
 
 RTMP_SERVERS="[f=flv]rtmp://xxx"
 
